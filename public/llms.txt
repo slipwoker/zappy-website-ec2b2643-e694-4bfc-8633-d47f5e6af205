@@ -1,0 +1,90 @@
+# הפועל תל אביב — Generative Engine Optimization Map
+
+> A fan and statistics website dedicated to Hapoel Tel Aviv Football Club, one of Israel's most iconic football clubs. The site will showcase match statistics against rival teams, player and squad photos, club achievements and championship titles, as well as upcoming match schedules and kick-off times. The site carries a passionate fan culture vibe with a strong local Israeli football identity.
+
+---
+
+## Pages
+
+### בית
+https://-ec2b2643.zappy5.app
+ברוכים הבאים לאתר האוהדים של הפועל תל אביב! היכנסו לסטטיסטיקות לוהטות, תמונות שחקנים עדכניות, לוח משחקים מלא וכל מה שצריך כדי להישאר הכי קרובים למועדון הכדורגל האהוב בישראל.
+
+### סטטיסטיקות יריב
+https://-ec2b2643.zappy5.app/rival-stats
+גלו מי שולט במגרש! נתונים עדכניים וסטטיסטיקות מפורטות של הפועל תל אביב מול כל קבוצה יריבה. השוו ביצועים, גולים והיסטוריית ניצחונות ותבינו למה אנחנו הכי גדולים.
+
+### תמונות נבחרת
+https://-ec2b2643.zappy5.app/squad-photos
+גלריית תמונות ענקית של סגל הפועל תל אביב. צפו בשחקנים שלנו באימונים, בחדר ההלבשה וברגעי השיא על כר הדשא. הורידו תמונות בלעדיות והרגישו חלק מהקבוצה.
+
+### הישגים
+https://-ec2b2643.zappy5.app/achievements
+מסע מרגש בזמן דרך כל הגביעים, האליפויות ותארי השיא של הפועל תל אביב. גלו את הרגעים שהפכו אותנו לאגדה חיה בכדורגל הישראלי, והוכיחו שאדום זה הכי חזק שיש.
+
+### לוח משחקים
+https://-ec2b2643.zappy5.app/match-calendar
+לוח המשחקים המלא של הפועל תל אביב מחכה לכם! בדקו זמני שריקה, תאריכי מפגשי עונה ומיקומי מגרשים. סמנו ביומן ובואו לעודד את האדומים ביציעים בכל משחק.
+
+### צור קשר
+https://-ec2b2643.zappy5.app/contact
+רוצים להצטרף לחגיגה? צרו קשר עם קהילת אוהדי הפועל תל אביב. שלחו תמונות, רעיונות או פשוט דברו איתנו על הקבוצה. ביחד נצעד קדימה עד לניצחון הבא.
+
+### תודה רבה | הפועל תל אביב
+https://-ec2b2643.zappy5.app/thank-you
+תודה על פנייתך למועדון הכדורגל הפועל תל אביב. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם האפשרי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-ec2b2643.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-ec2b2643.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-ec2b2643.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-ec2b2643.zappy5.app/contact
+- Endpoint: https://-ec2b2643.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הפועל תל אביב
+A fan and statistics website dedicated to Hapoel Tel Aviv Football Club, one of Israel's most iconic football clubs. The site will showcase match statistics against rival teams, player and squad photos, club achievements and championship titles, as well as upcoming match schedules and kick-off times. The site carries a passionate fan culture vibe with a strong local Israeli football identity.
+
+## Target Audience
+- מעריצי הפועל תל אביב וחובבי כדורגל ישראלי
+- מעריצי הפועל תל אביב
+- חובבי כדורגל ישראלי
+
+## Industry
+Sports / Football Club
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-ec2b2643.zappy5.app/sitemap.xml
+- Robots: https://-ec2b2643.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-ec2b2643.zappy5.app/llms-full.txt
